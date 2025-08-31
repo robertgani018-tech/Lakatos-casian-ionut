@@ -12,7 +12,77 @@
             padding: 20px;
             background: #f0f0f0;
         }
-        h1 { text-align: center; }
+        h1 { Un actor rătăcit, sub cerul înstelat,
+
+În umbra codrului, de lume uitat,
+
+Unde-n suflet caută un strop de alinare,
+
+Un rol nou, un vis, o dulce cântare.
+
+
+Vânt șoptește la ureche, soarele-apune lin,
+
+Un zâmbet timid, nu grimasa de chin,
+
+În lumea-n care joacă un rol mereu greu,
+
+Dorește-o evadare, un loc doar al meu.
+
+
+Iubirea-i un castel, de timp ruinat,
+
+Un vis pierdut, de lume uitat,
+
+Dar în adâncul pădurii, speranța se-arată,
+
+Un nou început, o nouă viață curată.
+
+
+În codrul adânc, un sunet se aude,
+
+O muzică veche,  de mult uitate  ce-n suflet pătrunde,
+
+Călăuzind pașii spre un nou destin,
+
+Un actor liber, un om deplin.
+
+Un actor rătăcit, sub cerul înstelat,
+
+În umbra codrului, de lume uitat,
+
+Unde-n suflet caută un strop de alinare,
+
+Un rol nou, un vis, o dulce cântare.
+
+
+Vânt șoptește la ureche, soarele-apune lin,
+
+Un zâmbet timid, nu grimasa de chin,
+
+În lumea-n care joacă un rol mereu greu,
+
+Dorește-o evadare, un loc doar al meu.
+
+
+Iubirea-i un castel, de timp ruinat,
+
+Un vis pierdut, de lume uitat,
+
+Dar în adâncul pădurii, speranța se-arată,
+
+Un nou început, o nouă viață curată.
+
+
+În codrul adânc, un sunet se aude,
+
+O muzică veche,  de mult uitate  ce-n suflet pătrunde,
+
+Călăuzind pașii spre un nou destin,
+
+Un actor liber, un om deplin.
+
+-align: center; }
         .story {
             background: #fff;
             padding: 15px;
